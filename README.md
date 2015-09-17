@@ -1,7 +1,6 @@
 Dava Visualization in D3.js
 
-1. [Student Learning Data](summer-liu.github.io/sunshine)
-
-2. [Biking route from San Francisco to Washington DC](summer-liu.github.io/oneway)
+## <a href="summer-liu.github.io/sunshine.html" target="_blank">Student Learning Data</a>
+## <a href="summer-liu.github.io/oneway.html" target="_blank">Biking route from San Francisco to Washington DC</a>
 
 click on each state to zoom in/out.
